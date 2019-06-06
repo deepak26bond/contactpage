@@ -19,7 +19,7 @@ export class EmailService {
     
     'Content-Type': 'application/json',
     
-    'Authorization': 'Bearer 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'
+    'Authorization': ''
     
     })
     
@@ -74,7 +74,7 @@ export class EmailService {
       
       'Content-Type': 'application/json',
       
-      'Authorization': 'Bearer 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'
+      'Authorization': ''
       
       })
       
